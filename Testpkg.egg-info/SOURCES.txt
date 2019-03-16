@@ -1,0 +1,8 @@
+README.txt
+setup.py
+Testpkg.egg-info/PKG-INFO
+Testpkg.egg-info/SOURCES.txt
+Testpkg.egg-info/dependency_links.txt
+Testpkg.egg-info/top_level.txt
+testfuncpkg/__init__.py
+testfuncpkg/testfunc.py

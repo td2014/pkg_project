@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: Testpkg
+Version: 0.1
+Summary: An example of a python package from pre-existing code
+Home-page: https://github.com/td2014/pkg_project
+Author: Anthony Daniell
+Author-email: anthonyd2004@gmail.com
+License: MIT
+Description: ==============
+        Testpkg module
+        ==============
+        
+        **This is a function to test Python 3.X pip install functionality.
+        
+Platform: UNKNOWN
